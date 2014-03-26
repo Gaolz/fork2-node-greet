@@ -4,5 +4,5 @@
 *.log
 *.pid
 *.seed
-lib
+lib/
 .grunt
